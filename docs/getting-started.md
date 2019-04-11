@@ -6,7 +6,7 @@ Building your own inventory
 
 Ansible inventory can be stored in 3 formats: YAML, JSON, or INI-like. There is
 an example inventory located
-[here](https://github.com/kubernetes-sigs/kubespray/blob/master/inventory/sample/hosts.ini).
+[here](https://github.com/kubernetes-sigs/kubespray/blob/master/inventory/sample/inventory.ini).
 
 You can use an
 [inventory generator](https://github.com/kubernetes-sigs/kubespray/blob/master/contrib/inventory_builder/inventory.py)
